@@ -33,7 +33,7 @@ Open your terminal inside the project directory and run:
 bash
 
 python -m http.server 8000
-Then open your browser and navigate to: http://localhost:8000
+Then open your browser and navigate to: https://rushikumar-512.github.io/portfolio/
 
 2. Using Node.js / npm
 Install http-server globally and run:
@@ -42,7 +42,7 @@ bash
 
 npm install -g http-server
 http-server -p 8000
-Then navigate to: http://localhost:8000
+Then navigate to: https://rushikumar-512.github.io/portfolio/
 
 👨‍💻 Portfolio Sections & Content
 🚀 Projects Showcase
